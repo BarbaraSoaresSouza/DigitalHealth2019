@@ -1,0 +1,11 @@
+Criando um microsserviço de CRUD simples controlado por dados
+
+https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice
+
+CONECTANDO O FACEBOOK:
+https://developers.facebook.com/apps/
+https://developers.facebook.com/apps/514965462639865/account-kit/quickstart/
+
+WEB SITE:
+
+Digitalhealthweb.azurewebsites.nets
